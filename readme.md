@@ -21,3 +21,14 @@ This project is built using **Vanilla JS & Tailwind CSS**
 - Mobile-first, responsive design across all screen sizes  
 - Smooth Tailwind-powered animations, hover states & transitions  
 - Loading states, basic error handling & user-friendly feedback
+
+## ✨ Features
+
+- Live products from API  
+- Beautiful responsive product cards  
+- Add / remove / update cart items  
+- Instant total calculation  
+- Saves cart automatically  
+- Works great on all devices  
+- Smooth animations & hover effects  
+- Loading + error handling
