@@ -1,4 +1,7 @@
-### 🚀 Live Demo:  https://swiftcaart.netlify.app
+## 🚀 Live Demo:  https://swiftcaart.netlify.app
+
+**SwiftCart** is a fast, lightweight, and modern **e-commerce shopping cart** built from scratch using only **Vanilla JavaScript** and **Tailwind CSS**. No frameworks, no heavy dependencies — pure frontend magic with real-time API data!
+
 
 ## 🧩 Tech Stack
 This project is built using **Vanilla JS & Tailwind CSS**
