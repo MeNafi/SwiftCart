@@ -14,8 +14,8 @@ This project is built using **Vanilla JS & Tailwind CSS**
 - Products loaded live from **API**
 - Nice responsive grid (images, price, rating, description)
 - Add / remove / update cart items  
-- Instant total calculation  
-- Saves cart automatically  
+- Real-time total updates
+- Saves cart features 
 - Works great on all devices  
 - Smooth animations & hover effects  
 - Loading + error handling
