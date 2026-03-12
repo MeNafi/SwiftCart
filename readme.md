@@ -11,7 +11,7 @@ This project is built using **Vanilla JS & Tailwind CSS**
 
 ## ✨ Features
 
-- Live products from API  
+- Products loaded live from API
 - Beautiful responsive product cards  
 - Add / remove / update cart items  
 - Instant total calculation  
